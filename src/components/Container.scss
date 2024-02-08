@@ -1,0 +1,9 @@
+.container {
+    border: 1px red dotted !important;
+
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    row-gap: 50px;
+}
+
